@@ -1,0 +1,12 @@
+{
+  "name": "aws-pipeline-demo",
+  "version": "1.0.0",
+  "description": "Ejemplo Node.js desplegado con AWS CodePipeline y CodeBuild desde GitHub",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
