@@ -1,5 +1,5 @@
 # Imagen base oficial de Node
-FROM node:18-alpine
+FROM public.ecr.aws/docker/library/node:18-alpine
 
 # Crear directorio de trabajo
 WORKDIR /app
